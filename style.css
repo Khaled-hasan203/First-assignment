@@ -17,7 +17,7 @@ header {
     align-items: center;
     justify-content: space-between;
     background-color: #ffffff;
-    padding: 16px 48px;
+    padding: 16px 32px;
     border-bottom: 1px solid #ccc;
 }
 /* container area */
@@ -529,7 +529,7 @@ ul {
 .footer-content {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 12px 48px;
+    padding: 12px 24px;
     display: flex;
     justify-content: space-between;
     align-items: center;
